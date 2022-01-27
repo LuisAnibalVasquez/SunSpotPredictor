@@ -1,2 +1,3 @@
-# SunSpotPredictor
-An end-to-end application that allows you to predict sunspots 
+# SunSpot Predictor
+
+A deep learning model developed to predict the number of sunspots. 
